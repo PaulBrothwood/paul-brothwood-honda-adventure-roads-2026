@@ -1,6 +1,6 @@
 # Honda Adventure Roads 2026
 
-![Paul Brothwood Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/paul-brothwood-photos/main/motorcycling/paul-brothwood-honda-adventure-roads-2026.JPEG)
+![Paul Brothwood Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
 
 ## About
 
