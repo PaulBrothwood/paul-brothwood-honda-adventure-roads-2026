@@ -26,7 +26,11 @@ This repository contains my photographs, articles and experiences from the event
 
 ### Learning from Kirian Mirabet
 
-(Add your photo with Kirian here)
+### Learning from Kirian Mirabet
+
+![Kirian Mirabet](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-kirian-mirabet-honda-adventure-roads-2026-.jpg.JPEG)
+
+Spanish enduro rider Kirian Mirabet shared techniques that helped riders tackle loose climbs, rocky terrain and technical descents with greater confidence. Watching his bike control and ability to read the terrain was one of the highlights of Honda Adventure Roads 2026. :contentReference[oaicite:0]{index=0}
 
 ### Team Spirit
 
