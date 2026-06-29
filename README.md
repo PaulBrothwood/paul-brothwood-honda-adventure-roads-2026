@@ -2,30 +2,51 @@
 
 ![Paul Brothwood Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
 
+# Honda Adventure Roads 2026
+
+![Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
+
 ## About
 
-Honda Adventure Roads 2026 was one of the most memorable motorcycle journeys I have undertaken.
+Honda Adventure Roads 2026 was one of the most rewarding motorcycle adventures I have undertaken. Riding the Honda Transalp through the Pyrenees with a select group of riders pushed my riding skills further than ever before.
 
-My name is Paul Brothwood. I joined a select group of riders to explore the Pyrenees on the Honda Transalp, riding mountain passes, gravel tracks, technical climbs and remote roads across Spain and France.
+This repository contains my photographs, articles and experiences from the event.
 
-This repository brings together photographs, articles and experiences from that journey.
+## The Journey
 
-## Topics
+### Training
 
-* Honda Adventure Roads 2026
-* Honda Transalp
-* Pyrenees
-* Adventure Riding
-* Motorcycle Touring
-* Spain
-* France
-* Tosha Schareina
-* Kirian Mirabet
-* Paul Brothwood
+(Add your training camp photo here)
 
-## Articles
+### Into the Pyrenees
 
-Honda Adventure Roads 2026 Hub
+(Add your best mountain landscape here)
+
+### Riding the Honda Transalp
+
+(Add your favourite riding photo here)
+
+### Meeting Tosha Schareina
+
+(Add your photo with Tosha here)
+
+### Learning from Kirian Mirabet
+
+(Add your photo with Kirian here)
+
+### Team Spirit
+
+(Add your favourite group photo here)
+
+### The Finish
+
+![Finish Line](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
+
+Crossing the finish line after an unforgettable week riding across Spain and France.
+
+## Blogger Articles
+
+Honda Adventure Roads Hub
 
 https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-honda-adventure-roads-2026.html
 
@@ -44,3 +65,8 @@ https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-from-suzuki-hayabusa.h
 The Spirit of Honda Adventure Roads
 
 https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-spirit-of-honda.html
+
+## Gallery
+
+As more photographs are uploaded, they will be added to this page together with the story behind each one.
+
