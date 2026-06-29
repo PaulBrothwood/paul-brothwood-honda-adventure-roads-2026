@@ -1,11 +1,5 @@
 # Honda Adventure Roads 2026
 
-![Paul Brothwood Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
-
-# Honda Adventure Roads 2026
-
-![Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
-
 ## About
 
 Honda Adventure Roads 2026 was one of the most rewarding motorcycle adventures I have undertaken. Riding the Honda Transalp through the Pyrenees with a select group of riders pushed my riding skills further than ever before.
