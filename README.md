@@ -86,3 +86,86 @@ https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-spirit-of-honda.html
 
 As more photographs are uploaded, they will be added to this page together with the story behind each one.
 
+# Paul Brothwood | Honda Adventure Roads 2026
+
+![Paul Brothwood Honda Adventure Roads 2026](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-adventure-roads-finish-line-.jpg)
+
+## About Paul Brothwood
+
+My name is Paul Brothwood. I am a Chartered Environmentalist (CEnv), Operations Manager and adventure motorcyclist from the United Kingdom.
+
+In June 2026 I was selected to join Honda Adventure Roads 2026, riding the Honda XL750 Transalp through the Pyrenees alongside riders from around the world.
+
+This repository is my personal record of that journey. It brings together my photographs, experiences and articles from one of the most rewarding motorcycle adventures I have undertaken.
+
+---
+
+## Paul Brothwood in the Pyrenees
+
+(Photo)
+
+Standing in the Pyrenees during Honda Adventure Roads 2026. The scenery was breathtaking, but the riding was even more memorable.
+
+---
+
+## Paul Brothwood riding the Honda Transalp
+
+(Photo)
+
+The Honda XL750 Transalp handled everything from mountain roads to rocky trails, proving why it was the ideal motorcycle for this expedition.
+
+---
+
+## Paul Brothwood meeting Tosha Schareina
+
+(Photo)
+
+Meeting Dakar Rally rider Tosha Schareina was one of the highlights of the trip. Watching his precision and confidence on difficult terrain was a lesson in itself.
+
+---
+
+## Paul Brothwood learning from Kirian Mirabet
+
+(Photo)
+
+Kirian Mirabet shared practical riding techniques that helped every rider tackle the challenging terrain with greater confidence.
+
+---
+
+## Paul Brothwood and the Honda Adventure Roads team
+
+(Photo)
+
+Thirty riders. One unforgettable adventure. The friendships and support throughout the week made the experience even more rewarding.
+
+---
+
+## Paul Brothwood at the finish line
+
+(Photo)
+
+Crossing the finish line marked the end of an incredible journey through Spain and France, but the memories and lessons will stay with me for many years.
+
+---
+
+## Read the full story
+
+Honda Adventure Roads 2026 Hub
+
+https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-honda-adventure-roads-2026.html
+
+Meeting Dakar Rider Tosha Schareina
+
+https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-meeting-dakar-rider.html
+
+Learning from Kirian Mirabet
+
+https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-learning-from-kirian.html
+
+From Suzuki Hayabusa to Honda Adventure Roads
+
+https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-from-suzuki-hayabusa.html
+
+The Spirit of Honda Adventure Roads
+
+https://paulbrothwood.blogspot.com/2026/06/paul-brothwood-spirit-of-honda.html
