@@ -14,7 +14,9 @@ This repository contains my photographs, articles and experiences from the event
 
 ### Into the Pyrenees
 
-(Add your best mountain landscape here)
+![Honda Transalp](https://raw.githubusercontent.com/PaulBrothwood/honda-adventure-roads-2026/main/paul-brothwood-honda-transalp-pyrenees-mountains.jpg.JPEG)
+
+The Honda XL750 Transalp proved to be the perfect companion for Honda Adventure Roads 2026. From technical off-road trails to sweeping mountain roads through the Pyrenees, it delivered confidence, comfort and capability throughout the journey.
 
 ### Riding the Honda Transalp
 
